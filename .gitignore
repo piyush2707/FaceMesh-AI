@@ -1,0 +1,10 @@
+
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+models/
+input_video.mp4
+facemesh_output.mp4
+.streamlit/secrets.toml
